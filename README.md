@@ -1,89 +1,147 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a365d,100:3b82f6&height=220&section=header&text=WebBreda&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Modern%20Web%20Development%20%7C%20Breda,%20Netherlands&descSize=18&descAlignY=55&descColor=ffffff" />
-
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:222222&height=200&text=WebBreda&fontSize=60&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=1" />
+
+<br><br>
 
 <a href="https://webbreda.nl">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Fast+%26+Modern+Websites;Next.js+%7C+React+%7C+WordPress+%7C+WooCommerce;From+Concept+to+Launch+%E2%80%94+Pixel+Perfect" alt="Typing SVG" />
-</a>a>
+<img src="https://readme-typing-svg.demolab.com?font=Zen+Old+Mincho&weight=400&size=18&duration=3000&pause=2000&color=888888&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A+%E2%80%94+Once+in+a+Lifetime;Crafting+Modern+Web+Experiences;Next.js+%C2%B7+React+%C2%B7+WordPress+%C2%B7+WooCommerce;From+Breda%2C+Netherlands+%F0%9F%8C%8A" alt="Typing SVG" />
+</a>
 
-<br/>
+<br>
 
-[![Website](https://img.shields.io/badge/🌐_webbreda.nl-1a365d?style=for-the-badge)](https://webbreda.nl)
-[![Email](https://img.shields.io/badge/📧_info@webbreda.nl-3b82f6?style=for-the-badge)](mailto:info@webbreda.nl)
-[![Location](https://img.shields.io/badge/📍_Breda,_Netherlands-0f172a?style=for-the-badge)](https://maps.google.com/?q=Breda+Netherlands)
-
-</div>
-
-<br/>
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,wordpress,woocommerce,vercel,figma,git,vscode&perline=5&theme=dark" />
+<a href="https://webbreda.nl"><img src="https://img.shields.io/badge/webbreda.nl-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:info@webbreda.nl"><img src="https://img.shields.io/badge/info@webbreda.nl-111111?style=flat-square&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Breda,_NL-222222?style=flat-square&logo=openstreetmap&logoColor=white" />
 
 </div>
 
-<br/>
+<br>
 
-## 🏗️ What I Build
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
 
 <div align="center">
 
-| | Service | Description |
-|---|---------|-------------|
-| 🎨 | **Custom Websites** | Unique designs built from scratch with Next.js & React |
-| 🛒 | **WordPress & WooCommerce** | Online stores, themes & custom plugins |
-| 🔄 | **Website Redesign** | Transform outdated sites into modern experiences |
-| 🚀 | **SEO & Performance** | Lightning-fast, search engine optimized websites |
+### 技 ・ Tech Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=light" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=wordpress,woocommerce,vercel,figma&theme=light" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs&theme=light" />
 
 </div>
 
-<br/>
-
-## 🌟 Featured Projects
+<br>
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<div align="center">
+
+### 仕事 ・ What I Build
+
+<br>
+
+```
+🎨  Custom Websites    →  Unique designs from scratch with Next.js & React
+🛒  E-Commerce         →  WooCommerce stores, themes & custom plugins
+🔄  Website Redesign   →  Transform outdated sites into modern experiences
+🚀  SEO & Performance  →  Lightning-fast, search engine optimized
+```
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<div align="center">
+
+### 作品集 ・ Portfolio
+
+<br>
 
 | Project | Type | Stack | |
-|---------|------|-------|-|
+|:--------|:-----|:------|:-:|
 | **Koya** | 🍜 Restaurant | Next.js · Tailwind CSS | [View →](https://webbreda.nl) |
 | **Dian** | 💼 Business | Next.js · React | [View →](https://webbreda.nl) |
 
 </div>
 
-<br/>
+<br>
 
-## 📊 GitHub Stats
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=webbreda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webbreda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=ffffff" height="170" />
+### 統計 ・ GitHub Stats
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=webbreda&show_icons=true&hide_border=true&bg_color=00000000&title_color=888888&icon_color=ffffff&text_color=aaaaaa&ring_color=ffffff" height="165" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=webbreda&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=888888&currStreakNum=FFFFFF&dates=555555&sideNums=AAAAAA&stroke=33333380" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=webbreda&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15" />
 
 </div>
 
-<br/>
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=webbreda&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webbreda/webbreda/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webbreda/webbreda/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/webbreda/webbreda/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💬 Let's Build Something Great Together
+*"一期一会 — Treasure every encounter, for it will never recur"*
 
-<a href="mailto:info@webbreda.nl">
-<img src="https://img.shields.io/badge/Get_In_Touch-3b82f6?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>a>
-<a href="https://webbreda.nl">
-<img src="https://img.shields.io/badge/View_Portfolio-1a365d?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>a>
+<br><br>
+
+<a href="mailto:info@webbreda.nl"><img src="https://img.shields.io/badge/GET_IN_TOUCH-000000?style=for-the-badge" /></a>
+&nbsp;&nbsp;
+<a href="https://webbreda.nl"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-111111?style=for-the-badge" /></a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a365d,100:3b82f6&height=120&section=footer" />
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:000000&height=100&section=footer" />
